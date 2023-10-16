@@ -3,6 +3,7 @@
 
 # TEAM
 
+	Daniel Plottel	daniel@gmail.com	@faketwitterhandle
     <name> -- <role> -- <twitter>
 
 # THANKS
